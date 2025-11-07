@@ -1,0 +1,73 @@
+🐍 Snake Game — Python (Pygame)
+
+A simple and fun Snake Game built using Python and Pygame.
+Move the snake, eat food, and grow longer — but don’t hit the wall or yourself!
+
+🎮 Features
+
+Smooth and simple gameplay
+
+Classic grid-based movement
+
+Automatic speed increase as you score more
+
+Restart and quit options
+
+Compact and beginner-friendly code
+
+🧠 Requirements
+
+Python 3.8+
+
+Pygame library
+
+Install pygame:
+
+pip install pygame
+
+▶️ How to Run
+
+Clone or download this repository
+
+Open terminal/cmd in the project folder
+
+Run the game:
+
+python snake_simple.py
+
+
+Enjoy the game! 🎉
+
+⌨️ Controls
+Key	Action
+⬆️ / W	Move Up
+⬇️ / S	Move Down
+⬅️ / A	Move Left
+➡️ / D	Move Right
+ESC	Quit
+R	Restart after Game Over
+📸 Screenshot (Optional)
+
+(You can add a screenshot here once you take one — e.g. ![Snake Game Screenshot](screenshot.png))
+
+🧩 Code Summary
+
+Built using only ~100 lines of Python
+
+Uses pygame for graphics and event handling
+
+Each frame updates snake position, checks collisions, and renders graphics
+
+💡 Future Improvements
+
+Add obstacles
+
+Add score board / high score saving
+
+Add sound effects
+
+Dark and light themes
+
+👨‍💻 Author
+
+Alok Yadav Ritik Kumar
